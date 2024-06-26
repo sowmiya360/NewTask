@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-25T14:56:02Z" name="Default suite" finished-at="2024-06-25T14:56:14Z" duration-ms="11592">
+    <groups>
+    </groups>
+    <test started-at="2024-06-25T14:56:02Z" name="Default test" finished-at="2024-06-25T14:56:14Z" duration-ms="11592">
+      <class name="task11.HeadlessBrowserTestNG">
+        <test-method is-config="true" signature="m1()[pri:0, instance:task11.HeadlessBrowserTestNG@2ab4bc72]" started-at="2024-06-25T14:56:02Z" name="m1" finished-at="2024-06-25T14:56:06Z" duration-ms="3269" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+        <test-method signature="m2()[pri:0, instance:task11.HeadlessBrowserTestNG@2ab4bc72]" started-at="2024-06-25T14:56:06Z" name="m2" finished-at="2024-06-25T14:56:13Z" duration-ms="7703" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m2 -->
+        <test-method is-config="true" signature="m3()[pri:0, instance:task11.HeadlessBrowserTestNG@2ab4bc72]" started-at="2024-06-25T14:56:13Z" name="m3" finished-at="2024-06-25T14:56:14Z" duration-ms="547" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m3 -->
+      </class> <!-- task11.HeadlessBrowserTestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
